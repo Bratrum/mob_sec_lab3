@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">thirdlab</string>
+    <string name="welcom_to_the_web_city_of_sun_ki_yu_vadim">Welcom to the web city of Sun-Ki-Yu Vadim</string>
+    <string name="sun_ki_yu_vadim">Sun-Ki-Yu Vadim</string>
+    <string name="view_my_brief_bio">View my brief Bio</string>
+    <string name="view_my_profile">View my profile</string>
+    <string name="open_my_camera">Open my camera</string>
+    <string name="todo">TODO</string>
+</resources>
